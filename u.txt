@@ -1,1 +1,5 @@
+<<<<<<< master
 First commit
+=======
+Hi
+>>>>>>> a01b849 Create u.txt
